@@ -1,0 +1,36 @@
+C:\Users\Ahmed\source\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.deps.json
+C:\Users\Ahmed\source\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Ahmed\source\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Ahmed\source\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.deps.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csprojAssemblyReference.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfoInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.pdb
+E:\FTC Tr\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.deps.json
+E:\FTC Tr\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.dll
+E:\FTC Tr\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csprojAssemblyReference.cache
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfoInputs.cache
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csproj.CoreCompileInputs.cache
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.dll
+E:\FTC Tr\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.deps.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.AssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Core\obj\Debug\netcoreapp3.1\CMS.Core.pdb

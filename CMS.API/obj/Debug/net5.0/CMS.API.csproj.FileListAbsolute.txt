@@ -1,0 +1,360 @@
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.StaticWebAssets.xml
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.exe
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.input.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.output.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorCoreGenerate.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.dll
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+C:\Users\Ahmed\source\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ahmed\source\CMS\CMS.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.StaticWebAssets.xml
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.exe
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csprojAssemblyReference.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.input.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.output.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorCoreGenerate.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\appsettings.json
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.StaticWebAssets.xml
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.exe
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Humanizer.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.pdb
+E:\FTC Tr\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csprojAssemblyReference.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.input.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.output.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorCoreGenerate.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.Views.pdb
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.dll
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+E:\FTC Tr\CMS\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.StaticWebAssets.xml
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.exe
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.deps.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.runtimeconfig.dev.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\ref\CMS.API.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\bin\Debug\net5.0\CMS.Service.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.AssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.Manifest.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\staticwebassets\CMS.API.StaticWebAssets.xml
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\scopedcss\bundle\CMS.API.styles.css
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.input.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.TagHelpers.output.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorCoreGenerate.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.Views.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.csproj.CopyComplete
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\ref\CMS.API.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.API\obj\Debug\net5.0\CMS.API.genruntimeconfig.cache

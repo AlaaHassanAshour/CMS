@@ -1,0 +1,56 @@
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.deps.json
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CopyComplete
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\Ahmed\source\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Ahmed\source\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.deps.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csprojAssemblyReference.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfoInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CopyComplete
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.deps.json
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.dll
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.pdb
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.dll
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.dll
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+E:\FTC Tr\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csprojAssemblyReference.cache
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfoInputs.cache
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CoreCompileInputs.cache
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CopyComplete
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.dll
+E:\FTC Tr\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.deps.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Service.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Core.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.AssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.csproj.CopyComplete
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Service\obj\Debug\netcoreapp3.1\CMS.Service.pdb

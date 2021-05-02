@@ -1,0 +1,48 @@
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+C:\Users\Ahmed\source\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+C:\Users\Ahmed\source\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+C:\Users\Ahmed\source\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Ahmed\source\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
+C:\Users\Ahmed\source\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csprojAssemblyReference.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
+C:\Users\Mohammed Salah\Desktop\CMS\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csprojAssemblyReference.cache
+E:\FTC Tr\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+E:\FTC Tr\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+E:\FTC Tr\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+E:\FTC Tr\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+E:\FTC Tr\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csprojAssemblyReference.cache
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+E:\FTC Tr\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
