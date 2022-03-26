@@ -26,7 +26,7 @@ namespace CMS.API.Controllers
         public IActionResult GetAll()
         {
            var categories =  _categoryService.GetAll();
-           return Ok(categories);
+           return Ok(GetRespons(categories));
         }
 
         [HttpPost]

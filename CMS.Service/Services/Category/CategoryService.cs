@@ -21,7 +21,6 @@ namespace CMS.Service.Services.Category
 
         public List<CategoryViewModel> GetAll()
         {
-            throw new InvalidUsernameException();
 
             var categoriesVm = _DB.Categories.Select(x => new CategoryViewModel() { 
               Id = x.Id,

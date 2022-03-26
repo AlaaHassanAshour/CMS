@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CMS.API.Controllers
 {
-    
+  //  [ApiController]
     [Route("api/[controller]/[action]")]
     [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class BaseController : Controller

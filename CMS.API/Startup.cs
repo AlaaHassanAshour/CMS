@@ -155,7 +155,7 @@ namespace CMS.API
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SBS");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CMS");
             });
 
             app.UseExceptionHandler(opts => opts.UseMiddleware<ExceptionHandler>());

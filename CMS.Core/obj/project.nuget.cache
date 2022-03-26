@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UtXEO00MYffocYRqOfp4blecsjKxPexXs5Z5/0JB9HcyRQGtcyNBoxoJRS1hFKBh0po7GokqscEESO3GBasjTw==",
+  "dgSpecHash": "vdOcWUKZ16eSgpY4QtQvoHKnmYElbb+XZUDginE9wGh0blttig7tmI4x17wVXlB8TtvXM8ItuLp+ktcs6mE+KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj",
+  "projectFilePath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\LTC2021\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\LTC2021\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\LTC2021\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

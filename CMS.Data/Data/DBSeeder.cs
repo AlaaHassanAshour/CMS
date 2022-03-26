@@ -72,7 +72,6 @@ namespace CMS.Data
             await context.Categories.AddAsync(category);
             await context.SaveChangesAsync();
 
-
         }
     }
 }

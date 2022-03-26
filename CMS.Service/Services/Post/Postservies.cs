@@ -79,9 +79,8 @@ namespace CMS.Service.Services.Post
             foreach (var x in dto.TagsId)
             {
                 var postTag = new PostTagDbEntity();
-                postTag.TagId = x;
                 postTag.PostId = createdPost.Id;
-
+                postTag.TagId = x;
                 _Db.PostTags.Add(postTag);
             }
 
@@ -97,8 +96,31 @@ namespace CMS.Service.Services.Post
             }
             _Db.SaveChanges();
         }
+        
+        public async Task Update(CreatePostDto dto)
+        {
 
+            var createdPost = new PostDbEntity()
+            {
+                Title = dto.Title,
+                Body = dto.Body,
+                CategoryId = dto.CategoryId
+            };
 
+            _Db.Posts.Update(createdPost);
+
+            var postTage = await _Db.PostTags.Where(x => x.PostId == dto.Id).ToListAsync();
+            _Db.PostTags.RemoveRange(postTage);
+            _Db.SaveChanges();
+            foreach (var x in dto.TagsId)
+            {
+                var postTag = new PostTagDbEntity();
+                postTag.PostId = createdPost.Id;
+                postTag.TagId = x;
+                _Db.PostTags.Add(postTag);
+            }
+            _Db.SaveChanges();
+        }
         public void Delete(int id)
         {
             var deletedPost = _Db.Posts.SingleOrDefault(x => x.Id == id);
@@ -106,7 +128,6 @@ namespace CMS.Service.Services.Post
             _Db.Posts.Update(deletedPost);
             _Db.SaveChanges();
         }
-
     }
 
 }

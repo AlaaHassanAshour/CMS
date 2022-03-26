@@ -12,5 +12,6 @@ namespace CMS.Service.Services.Post
         PagingViewModel GetAll(int page);
         void Delete(int id);
         Task Create(CreatePostDto dto);
+        Task Update(CreatePostDto dto);
     }
 }

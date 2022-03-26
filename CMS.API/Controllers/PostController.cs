@@ -31,7 +31,12 @@ namespace CMS.API.Controllers
             await _PostSerives.Create(dto);
             return Ok(GetRespons());
         }
-
+        [HttpPut]
+        public async Task<IActionResult> Update([FromForm]CreatePostDto dto)
+        {
+            await _PostSerives.Update(dto);
+            return Ok(GetRespons());
+        }
         [HttpDelete]
 
         public IActionResult Delete (int id)

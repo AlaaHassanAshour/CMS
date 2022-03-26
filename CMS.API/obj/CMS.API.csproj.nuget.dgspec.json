@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.API\\CMS.API.csproj": {}
+    "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.API\\CMS.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.API\\CMS.API.csproj": {
+    "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.API\\CMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.API\\CMS.API.csproj",
+        "projectUniqueName": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.API\\CMS.API.csproj",
         "projectName": "CMS.API",
-        "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.API\\CMS.API.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.API\\obj\\",
+        "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.API\\CMS.API.csproj",
+        "packagesPath": "C:\\Users\\LTC2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LTC2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj"
+              "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj"
               },
-              "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj": {
-                "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj"
+              "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj"
               },
-              "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\CMS.Service.csproj": {
-                "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\CMS.Service.csproj"
+              "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\CMS.Service.csproj": {
+                "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\CMS.Service.csproj"
               }
             }
           }
@@ -62,9 +62,19 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -89,21 +99,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj": {
+    "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj",
         "projectName": "CMS.Core",
-        "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\obj\\",
+        "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "packagesPath": "C:\\Users\\LTC2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LTC2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,40 +154,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.8, 3.1.8]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj": {
+    "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj",
+        "projectUniqueName": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj",
         "projectName": "CMS.Data",
-        "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\obj\\",
+        "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj",
+        "packagesPath": "C:\\Users\\LTC2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LTC2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -246,40 +242,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.8, 3.1.8]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\CMS.Service.csproj": {
+    "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\CMS.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\CMS.Service.csproj",
+        "projectUniqueName": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\CMS.Service.csproj",
         "projectName": "CMS.Service",
-        "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\CMS.Service.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Service\\obj\\",
+        "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\CMS.Service.csproj",
+        "packagesPath": "C:\\Users\\LTC2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LTC2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -293,11 +275,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Core\\CMS.Core.csproj"
+              "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Core\\CMS.Core.csproj"
               },
-              "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj": {
-                "projectPath": "C:\\Users\\admin\\Downloads\\Video\\Ahmed salayel asp.net\\Project\\CMS\\CMS.Data\\CMS.Data.csproj"
+              "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "C:\\Users\\LTC2021\\Source\\Repos\\CMS\\CMS.Data\\CMS.Data.csproj"
               }
             }
           }
@@ -331,20 +313,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.8, 3.1.8]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -353,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

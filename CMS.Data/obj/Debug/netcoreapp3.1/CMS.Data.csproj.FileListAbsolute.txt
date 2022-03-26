@@ -46,3 +46,15 @@ C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\De
 C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
 C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
 C:\Users\admin\Downloads\Video\Ahmed salayel asp.net\Project\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.AssemblyReference.cache
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+C:\Users\LTC2021\Source\Repos\CMS\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
